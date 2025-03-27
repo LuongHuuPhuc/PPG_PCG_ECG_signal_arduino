@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.cu": "c",
+    "*.cpp": "cpp",
+    "cstddef": "cpp",
+    "cmath": "cpp"
+  }
+}
